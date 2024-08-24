@@ -19,9 +19,9 @@ Retrieve and manage logs directly from AWS Cloud.
 
 Automate the conversion of audio files to text using AWS Transcribe. Trigger the process by uploading an audio file to S3.
 
-5. Python and MongoDB Integration
+5. Python Integration
 
-Connect Python to AWS MongoDB service using AWS Lambda.
+Connect Python to AWS service using AWS Lambda.
 
 6. Upload Objects to S3
 
